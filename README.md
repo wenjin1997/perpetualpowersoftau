@@ -178,7 +178,7 @@ Here are three ways to do this.
 
 1. Document the process you used in a file named `README.md`, following the template here: https://github.com/weijiekoh/perpetualpowersoftau/tree/master/0001_weijie_response
 Please include identifying information like your real name.
-2. Sign it with your GPG key and create a PR to the repo, adding your attestation and signature in the subfolder
+2. Sign it with your GPG key and create a PR to this repo(**this** repo, not to the [original](https://github.com/weijiekoh/perpetualpowersoftau/)), adding your attestation and signature in the subfolder
 `perpetualpowersoftau/<participant_num>_<your_name>_response`
 e.g.
 `perpetualpowersoftau/0001_ariel_response/`.
