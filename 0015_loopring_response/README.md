@@ -42,4 +42,4 @@ Blake2b:
         ac1e6d57 c4d7eeee 9c44e8ae a832872f  
 ```
 
-Time taken: 2 hours
+Time taken: 20 hours
