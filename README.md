@@ -27,6 +27,7 @@ As long as one party in the ceremony behaves honestly and is not comprimised, th
 | 0015 | [YunCun](http://ycipfs.com/en_US/) | | [Twitter](https://twitter.com/Robin63604530/status/1202225883844472832)
 | 0016 | brecht | [Keybase](https://keybase.io/brechtpd) | [0015_brecht_loopring_response](./0015_loopring_response/README.md) |
 | 0017 | EOSForce | [Github](https://api.github.com/users/eosforce/gpg_keys) | [0016_EOSForce_response](./0016_eosforce_response/README.md) |
+| 0018 | [SECBIT Labs](https://secbit.io/) | [Keybase](https://keybase.io/zkp0n1) | [0017_SECBIT_response](./0017_SECBIT_response/README.md) |
 
 ## Procedure
 
